@@ -1,0 +1,58 @@
+body {
+    background-color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    background-color: #A9A9A9 ;
+}
+
+.chicken {
+    background-color: #F08080 ;
+    width : 40%;
+    text-align: center;
+
+    
+}
+
+.beef {
+    background-color: #DE3163;
+    width : 40%;
+    text-align: center;
+}
+
+.sushi {
+    background-color: 
+    #F7DC6F;
+    width : 40%;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+
+#sect1 {
+    float: left;
+    width: 33%;
+    background-color: #A9A9A9 ;
+    
+    
+   
+}
+
+#sect2 {
+    float: right;
+    width: 33%;
+    background-color: #A9A9A9 ;
+    
+    
+    
+}
+
+#sect3 {
+    float: right;
+    width: 33%;
+    background-color: #A9A9A9 ;
+    
+    
+}
